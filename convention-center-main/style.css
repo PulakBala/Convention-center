@@ -1,0 +1,15 @@
+
+.shadow:hover{
+    background-color: rgb(171, 245, 171);
+    color: rgb(14, 16, 14);
+    transition: 0.24s;
+    border-radius: 20px;
+}
+
+/* .container{
+    position: relative;
+}
+footer{
+   position: relative;
+   margin-top: 200px;
+} */
